@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfluentKafkaExample": {
+      "commandName": "Project",
+      "commandLineArgs": "consumer 1"
+    }
+  }
+}
